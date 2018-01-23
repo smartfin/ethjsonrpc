@@ -23,7 +23,7 @@ setup(
         'Programming Language :: Python :: 3',
     ],
     install_requires=[
-        'ethereum==1.5.2',
+        'ethereum==2.3.0',
         'requests==2.11.1',
         'future==0.15.2',
     ],
